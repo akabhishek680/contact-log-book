@@ -1,0 +1,32 @@
+body {
+    background-image: url('/image/background-image.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding:20px;
+}
+
+.red-text {
+    color: red;
+}
+
+.delete-btn:hover {
+    font-weight: bold;
+    color:red;
+}
+
+.underline-text {
+    text-decoration: underline;
+}
+
+.form-ml {
+    margin-left: 20px;
+}
+
+.save-btn {
+    background-color: black;
+    color: white;
+}
+
+.inline-block-display {
+    display: inline-block;
+}
