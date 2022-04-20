@@ -9,12 +9,12 @@ Contact logbook can fetch, store, and delete all the contact detail. To store th
 5. npm i mongoose
 6. npm i mongodb
 
-**Runtime Environment**: NodeJs
-**Web Framework**: Express
-**Web Framework**: NodeJs
-**Language**: Javascript
-**Template Engine**: EJS
-**ODM**: Mongoose
-**Database**: MongoDB
+**Runtime Environment**: NodeJs <br>
+**Web Framework**: Express <br>
+**Web Framework**: NodeJs <br>
+**Language**: Javascript <br>
+**Template Engine**: EJS <br>
+**ODM**: Mongoose <br>
+**Database**: MongoDB <br>
 
 Feel free to take pull. Thanks!!!
